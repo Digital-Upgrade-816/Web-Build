@@ -1,0 +1,137 @@
+{
+  "data": {
+    "metadata": {
+      "keywords": "digital upgrade, digital, upgrade, IT, information technology, business, web design, graphic design, print design, evansville indiana, evansville, indiana, near me, consulting, business consulting, it solutions, it maintenance, support, computer support, computer repair, networking, computer networking, network engineer, web developers, seo, optimization, technology",
+      "ogTitle": "Web Design | Business IT | Graphics | Digital Upgrade - HOME",
+      "language": [
+        "en-gb",
+        "en-gb"
+      ],
+      "title": "Web Design | Business IT | Graphics | Digital Upgrade - HOME",
+      "og:title": "Web Design | Business IT | Graphics | Digital Upgrade - HOME",
+      "twitter:card": "summary_large_image",
+      "robots": "index, follow",
+      "ogImage": "https://digitalupgrade.com/images/socialshare%202023.jpg",
+      "revisit-after": "1 days",
+      "twitter:description": "Digital Upgrade located in Evansville, IN makes businesses more efficient and profitable by creating and managing their digital presence. Web Designers & IT.",
+      "og:description": "Digital Upgrade located in Evansville, IN makes businesses more efficient and profitable by creating and managing their digital presence. Web Designers & IT.",
+      "ogUrl": "https://digitalupgrade.com/",
+      "inLanguage": "en-GB",
+      "og:url": "https://digitalupgrade.com/",
+      "twitter:url": "https://digitalupgrade.com/",
+      "viewport": "width=device-width, initial-scale=1.0",
+      "twitter:title": "Web Design | Business IT | Graphics | Digital Upgrade - HOME",
+      "description": "Digital Upgrade located in Evansville, IN makes businesses more efficient and profitable by creating and managing their digital presence. Web Designers & IT.",
+      "ogDescription": "Digital Upgrade located in Evansville, IN makes businesses more efficient and profitable by creating and managing their digital presence. Web Designers & IT.",
+      "og:image": "https://digitalupgrade.com/images/socialshare%202023.jpg",
+      "og:type": "website",
+      "author": [
+        "Joomla",
+        "Digital Upgrade"
+      ],
+      "twitter:image": "https://digitalupgrade.com/images/socialshare%202023.jpg",
+      "favicon": "https://digitalupgrade.com/images/favicon.png",
+      "scrapeId": "019c6c86-ff82-717e-a549-4a051808ed99",
+      "sourceURL": "https://digitalupgrade.com",
+      "url": "https://digitalupgrade.com/",
+      "statusCode": 200,
+      "contentType": "text/html; charset=utf-8",
+      "proxyUsed": "basic",
+      "cacheState": "hit",
+      "cachedAt": "2026-02-17T07:08:20.942Z",
+      "creditsUsed": 1,
+      "concurrencyLimited": false
+    },
+    "images": [
+      "https://digitalupgrade.com/images/tlp%20logo.png",
+      "https://digitalupgrade.com/images/cyberpowerlogo.png",
+      "https://digitalupgrade.com/images/companyemail.jpg",
+      "https://digitalupgrade.com/images/DUPLogoFull.png",
+      "https://digitalupgrade.com/images/DUPLogoFull.png#joomlaImage://local-images/DUPLogoFull.png?width=542&height=98",
+      "https://digitalupgrade.com/images/itmaintenance.jpg",
+      "https://digitalupgrade.com/images/lobbyimage_1.jpg",
+      "https://digitalupgrade.com/images/building_pic.jpg",
+      "https://digitalupgrade.com/images/heroimage.png",
+      "https://digitalupgrade.com/images/gpartner%20logo.png"
+    ]
+  },
+  "scrape_id": "019c6c86-ff82-717e-a549-4a051808ed99",
+  "id": "-50DUIh-bYloQEHSGEr5C",
+  "startedAt": "2026-02-17T16:55:11.392Z",
+  "endedAt": "2026-02-17T16:55:11.795Z",
+  "endpoint": "scrape",
+  "formState": {
+    "extractSetupCompleted": false,
+    "urls": [],
+    "extractSchema": {
+      "type": "object",
+      "required": [],
+      "properties": {
+        "company_mission": {
+          "type": "string"
+        },
+        "supports_sso": {
+          "type": "boolean"
+        },
+        "is_open_source": {
+          "type": "boolean"
+        },
+        "is_in_yc": {
+          "type": "boolean"
+        }
+      }
+    },
+    "extractPrompt": "Extract the company details, following the schema.",
+    "enableWebSearch": false,
+    "constrainUrls": false,
+    "options": {
+      "onlyMainContent": false,
+      "parsePDF": true,
+      "stealthMode": false,
+      "excludeTags": [],
+      "includeTags": [],
+      "waitFor": "",
+      "timeout": "",
+      "maxAge": "2 days",
+      "ignoreSitemap": false,
+      "crawlEntireDomain": false,
+      "sitemap": "include",
+      "limit": "10",
+      "maxDepth": "",
+      "excludePaths": [],
+      "includePaths": [],
+      "includeSubdomains": false,
+      "search": "",
+      "scrapeContentFromSearchResults": true,
+      "timeBasedSearch": "",
+      "location": "",
+      "prompt": ""
+    },
+    "formats": [
+      "images"
+    ],
+    "sources": [
+      "web"
+    ],
+    "categories": [],
+    "jsonSchema": {
+      "type": "object",
+      "required": [],
+      "properties": {
+        "company_name": {
+          "type": "string"
+        },
+        "company_description": {
+          "type": "string"
+        }
+      }
+    },
+    "jsonPrompt": "",
+    "agent": {},
+    "url": "digitalupgrade.com",
+    "endpoint": "scrape"
+  },
+  "status": "success",
+  "version": "PuPD0Dg-QXNSCU3t0FMP6",
+  "isPreview": false
+}
